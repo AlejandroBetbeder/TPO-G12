@@ -98,7 +98,7 @@ header nav a:hover{
     flex-direction: column;
     height: 85vh;
     color: beige;
-    background-image: url("Img/fuji.jpg");
+    background-image: url(Img/fuji.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -151,16 +151,16 @@ header nav a:hover{
 }
 
 .cuadro:first-child{
-    background-image: url("Img/Tokyo.jpg");
+    background-image: url(Img/Tokyo.jpg);
 }
 
 .cuadro:nth-child(2){
-    background-image: url("Img/kyoto.jpg");
+    background-image: url(Img/kyoto.jpg);
 }
 
 
 .cuadro:last-child{
-    background-image: url("Img/kanji.jpg");
+    background-image: url(Img/kanji.jpg);
 }
 
 
@@ -326,7 +326,7 @@ footer iframe{
     }
     
     #todojapon .imagejapones{
-        background-image: url("Img/tokyo01.jpg");
+        background-image: url(Img/tokyo01.jpg);
         background-size: cover;
         background-position: top center;
         height:800px;
